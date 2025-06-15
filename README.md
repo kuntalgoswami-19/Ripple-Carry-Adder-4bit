@@ -16,7 +16,7 @@ Testbench included for simulation and verification
 
 🔍 Files Include
 
-RCA.v: Verilog code for N-bit ripple carry adder
+RCA.v: Verilog code for 4-bit ripple carry adder
 
 RCA_tb.v: Testbench to simulate RCA
 
